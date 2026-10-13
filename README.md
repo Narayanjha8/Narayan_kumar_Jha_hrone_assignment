@@ -48,7 +48,3 @@ uvicorn app.main:app --port 8000 --reload
 5. **Explore API Documentation:**
 Open your browser and navigate to `http://localhost:8000/docs` to test all endpoints interactively.
 
-```
-
-
-```
